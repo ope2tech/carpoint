@@ -1,7 +1,7 @@
  /* google fonts */
 
 *{
-    font-family: sans-serif;
+    font-family: poppins sans-serif;
     margin: 0;
     padding: 0;
     scroll-padding-top: 1rem;
@@ -121,13 +121,13 @@ header.shadow #search-icon{
         font-size: 1rem;
     }
     .home{
-        max-width: 1350px;
+        max-width: 1300px;
         margin: auto;
         width: 100%;
         min-height: 640px;
         display: flex;
         align-items: center;
-        background:url(img/background-home.png);
+        background: url(img/2p.jpg);
         background-repeat: no-repeat;
         background-size: cover;
         background-position: center left;
